@@ -1,3 +1,5 @@
+
+// c program
 #include<stdio.h>
 void main(){
 	int i,j,rows,cols;
